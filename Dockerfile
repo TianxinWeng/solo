@@ -5,5 +5,6 @@ ADD . /solo
 WORKDIR /solo
 RUN mvn install
 WORKDIR /solo/target/solo
+CMD java -cp WEB-INF/lib/*:WEB-INF/classes org.b3log.solo.Starter
 
 EXPOSE 8080
