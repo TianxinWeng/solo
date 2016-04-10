@@ -24,7 +24,7 @@
 # Browser visit protocol
 serverScheme=http
 # Browser visit domain name
-serverHost=42.159.240.95
+serverHost=tianxin-myblog.daoapp.io
 # Browser visit port, 80 as usual, THIS IS NOT SERVER LISTEN PORT!
 serverPort=8080
 
