@@ -29,11 +29,12 @@
 #jdbc.pool=h2
 
 #### MySQL runtime ####
+
 runtimeDatabase=MYSQL
-jdbc.username=root
-jdbc.password=123456
+jdbc.username=unoyIF8021DhxjQB
+jdbc.password=pkzZcolXBpsyA2wuM
 jdbc.driver=com.mysql.jdbc.Driver
-jdbc.URL=jdbc:mysql://tianxin-mysql.daoapp.io:3306/b3log?useUnicode=yes&characterEncoding=utf8
+jdbc.URL=jdbc:mysql://10.10.11.174:3306/hSf5yQ81uAJqselx?useUnicode=yes&characterEncoding=utf8
 jdbc.pool=druid
 
 # The minConnCnt MUST larger or equal to 3
